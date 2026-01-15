@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNSxRK7i/O0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phimm\\OneDrive\\Desktop\\hypesoft-challenge\\backend\\src\\Hypesoft.Domain\\Hypesoft.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phimm\\.nuget\\packages\\mongodb.bson\\2.28.0\\mongodb.bson.2.28.0.nupkg.sha512",
+    "C:\\Users\\phimm\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\phimm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
