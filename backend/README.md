@@ -167,6 +167,17 @@ docker build -t hypesoft-api .
 docker run -p 5000:5000 hypesoft-api
 ```
 
+## 💾 Acessar MongoDB via Navicat
+
+Para conectar ao MongoDB usando Navicat:
+
+- **Host**: `localhost`
+- **Porta**: `27017`
+- **Database**: `hypesoft` (ou `hypesoft_dev` em desenvolvimento)
+- **Autenticação**: Não configurada (sem usuário/senha)
+
+Para instruções detalhadas, consulte o arquivo `CONEXAO_MONGODB.md`
+
 ## 📊 Logs
 
 Os logs são gerados em:
